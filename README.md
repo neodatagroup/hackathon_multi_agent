@@ -62,6 +62,5 @@ PS> $env:API_ENV_VAR = "your-api-key-here"
 * Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, 
 quick, and persistent search results. 
 * You can sign up for an API key [here](https://tavily.com/). 
-It's easy to sign up and offers a very generous free tier. Some lessons (in Module 4) will use Tavily. 
-
+It's easy to sign up and offers a very generous free tier. 
 * Set `TAVILY_API_KEY` in your environment.

@@ -2,6 +2,9 @@
 
 
 
+PDF Presentation: https://www.canva.com/design/DAGWR1YbdBE/7mMDgkeJow8AsvU-GYoMbA/edit?utm_content=DAGWR1YbdBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 ## Setup
 
 ### Python version
